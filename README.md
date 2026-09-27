@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Thiranai Watcharapikunklin 👋
 
-<!--
-**thiranai1/thiranai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate in **Business Information Systems** with practical experience in database management, web applications, and business reporting tools. Focused on leveraging technology and structured data to solve operational problems and streamline workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Databases & Systems:** SQL, MySQL, Relational Database Design (ER-Diagram)
+- **Programming & Web Development:** Python, PHP, HTML/CSS, Vue.js basics
+- **Business Tools & Reporting:** Microsoft Excel, Google Sheets, Power BI
+- **Core Strengths:** Data Cleansing, Logic & Problem Solving, System Administration & Support
+
+---
+
+### 🚀 Highlighted Projects
+- **Business Reporting & Logistics Management Dashboard**  
+  Processed and structured 4-quarter logistical data across multiple transport channels to track operational trends and key spending metrics.
+- **Decision Support System & Database Application**  
+  Designed database architectures, implemented decision logic models, and developed a functional web interface with an admin management dashboard.
+
+---
+
+### 📫 Connect with me
+- **Location:** Chiang Mai, Thailand
